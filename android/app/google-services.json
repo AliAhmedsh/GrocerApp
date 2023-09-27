@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219385597837",
+    "project_id": "test-auth-8f17e",
+    "storage_bucket": "test-auth-8f17e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219385597837:android:816b14cc39016476c577c4",
+        "android_client_info": {
+          "package_name": "com.grocerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoXXDuPDgIeGbMNIsRto7XgKgmbTPD5QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
